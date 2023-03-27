@@ -2,8 +2,14 @@
     text-align: center;
     color:blue;
     background-color: beige;
-
 }
-/* S3 2 Arriba se usa selector #selector por id para modificar los estilos de un solo elemento. Aplicado id en <h1> de HTML
-Ya establecido el link con el documeto html, en esta ocasion, dentro del stylesheetCSS se procedio a
-cambiar a color azul las letras del titulo "desarrollador web" h1 y se cambia el tamaño de la fuente*/
+/* S3 2 Arriba se usa selector #titulodebiografia, selector por id para modificar los estilos de un solo elemento. Aplicado id en <h1>*/
+
+/* S3 3 A todos los titulos <h2> abajo se les cambia el color de letra a rojo, background (fondo) a amarillo y se tranfoema el texto a mayúsculas
+atributo global html <h2 class="titulos_h2"> */
+h2 {
+    color:red;
+    background-color: yellow;
+    text-transform: uppercase 
+}
+
