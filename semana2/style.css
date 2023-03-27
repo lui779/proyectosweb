@@ -1,6 +1,7 @@
 h1 {
-    color:blue
+    color:blue;
+    font-size:48px;
 }
 /* Ya establecido el link con el documeto html, en esta ocasion, dentro del stylesheetCSS se procedio a
-cambiar a color azul las letras del titulo "desarrollador web" h1*/
+cambiar a color azul las letras del titulo "desarrollador web" h1 y se cambia el tamaño de la fuente*/
 
