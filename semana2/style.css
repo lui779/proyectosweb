@@ -7,9 +7,24 @@
 
 /* S3 3 A todos los titulos <h2> abajo se les cambia el color de letra a rojo, background (fondo) a amarillo y se tranfoema el texto a mayúsculas
 atributo global html <h2 class="titulos_h2"> */
+
 h2 {
     color:red;
     background-color: yellow;
-    text-transform: uppercase 
+    text-transform: uppercase; 
 }
 
+/* S3 4 Abajo. A todos los li color de letra negra, color de fondo verde lima y fuente 24px*/
+
+li {
+    color:black;
+    background-color:yellowgreen;
+    font-size: 24px;
+}
+
+/* S3 5 Abajo. Con el selector universal "enmarcó la caja" con margen automático (verificar el termino aplicado para describir)*/
+
+* {
+    box-sizing:border-box;
+    margin:auto;
+}
