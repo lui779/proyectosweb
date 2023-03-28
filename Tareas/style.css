@@ -29,14 +29,15 @@ li {
     margin:auto;
 }
 
-/* Abajo se le dió tamaño a la fuente (15px), fondo aqua, borde al botón "más sobre mí"*7
-
 button {
-font-size:15px;
-background-color: aqua;
-box-sizing: border-box;
+
+    font-size:15px;
+    background-color: aqua;
+    box-sizing: border-box;
 
 }
+
+/* Arriba, se le dió tamaño a la fuente (15px), fondo aqua, borde al botón "más sobre mí"*7
 
 
 
