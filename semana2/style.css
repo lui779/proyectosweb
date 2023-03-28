@@ -29,7 +29,10 @@ li {
     margin:auto;
 }
 
-a {
+button {
+font-size:15px;
+background-color: aqua;
+box-sizing: border-box;
 
 }
 
