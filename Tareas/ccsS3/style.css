@@ -1,7 +1,14 @@
+*{
+    background-color: black;
+    box-sizing: initial;
+    margin: auto ;
+}
+
+
 #titulodebiografia {
     text-align: center;
     color:blue;
-    background-color: beige;
+    background-color: red;
 }
 /* S3 2 Arriba se usa selector #titulodebiografia, selector por id para modificar los estilos de un solo elemento. Aplicado id en <h1>*/
 
@@ -10,13 +17,13 @@ atributo global html <h2 class="titulos_h2"> */
 
 h2 {
     color:red;
-    background-color: yellow;
+    background-color: blue;
     text-transform: uppercase; 
 }
 
 p {
     font-family: Franklin Gothic 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:grey;
+    color:yellowgreen;
     font-size: 20px;
 
 }
@@ -25,15 +32,8 @@ p {
 
 li {
     color:black;
-    background-color:yellowgreen;
+    background-color:purple;
     font-size: 24px;
-}
-
-/* S3 5 Abajo. Con el selector universal "enmarcó la caja" con margen automático (verificar el termino aplicado para describir)*/
-
-* {
-    box-sizing:border-box;
-    margin:auto;
 }
 
 button {
