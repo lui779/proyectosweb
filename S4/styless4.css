@@ -1,13 +1,17 @@
 #titulo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color:gray ;
+    background-color: #635985 ;
     box-sizing: 100%;
     text-align: center;
 }
 
+a{
+    text-decoration: none;
+}
+
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color:hsl(90, 5%, 64%);
+    background-color:#443C68;
     box-sizing: 50%;
     text-align: center;
     font-size: 2em;
@@ -17,14 +21,24 @@ h2{
 
 header{
     text-align: center;
-    background-color: #011638;
+    background-color: #393053;
     font-size: 20px;
     color:white 
+    
 }
 
 div{
     align-items: center;
     font-size: 15px;
+}
+
+img{
+    width: 20%;
+}
+
+#contacto{
+    text-align: left;
+
 }
 
 nav{
@@ -34,7 +48,7 @@ nav{
 
 #footer{
     text-align: center;
-    background-color: black;
+    background-color: #18122B;
     font-size: 20px;
     color:white  
 }
