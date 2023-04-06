@@ -3,6 +3,8 @@
     background-color: #635985 ;
     box-sizing: 100%;
     text-align: center;
+    color:white;
+    font-size: 1.5em;
 }
 
 a{
@@ -15,7 +17,8 @@ h2{
     box-sizing: 50%;
     text-align: center;
     font-size: 2em;
-    color:black;
+    color:white;
+    font-size: 1.3em;
 
 }
 
@@ -23,23 +26,25 @@ header{
 padding: 0;
     text-align: center;
     background-color: #393053;
-    font-size: 20px;
-    color:white 
+    font-size: 1.3em;
+    color:white
+ 
      
 }
 
 button{
     padding: 0.3rem;
-
+list-style: none;
+size-adjust:60%;
 }
 
 div{
     align-items: center;
-    font-size: 15px;
+    font-size: 1em;
 }
 
 img{
-    width: 20%;
+    width: 30%;
 }
 
 #contacto{
@@ -52,12 +57,32 @@ nav{
 
 }
 
+.aficiones{
+    color:#546D64;
+}
+
 .deportes{
     text-align: left;
     font-size: 0.8em;
     list-style: none;
-    font-family: ;
-    color: ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:#50FFB1 ;
+}
+
+.rc{
+    text-align: left;
+    font-size: 0.8em;
+    list-style: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#4FB286  
+}
+
+.tec{
+    text-align: left;
+    font-size: 0.8em;
+    list-style: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#3C896D  
 }
 
 #footer{
