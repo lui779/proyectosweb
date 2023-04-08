@@ -92,7 +92,9 @@ nav{
     font-family:Arial, Helvetica, sans-serif;
  
 }
-
+i{
+    color: red;
+}
 #flaticon{
     font-size: 13px;
     color: white;
